@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Franco Fernando
+### Hi there <img src="https://github.com/FrancoFernando/FrancoFernando/blob/main/wave.gif" width="30px">, I'm Franco Fernando
+![TwitterProfile](https://img.shields.io/twitter/url?label=Franc0Fernand0&style=social&url=https%3A%2F%2Ftwitter.com%2FFranc0Fernand0) ![TwitterFollow](https://img.shields.io/twitter/follow/Franc0Fernand0?label=People%20following%20me&style=social)
 
 <!--
 **FrancoFernando/FrancoFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
