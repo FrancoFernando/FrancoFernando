@@ -5,13 +5,18 @@
 
 I'm a Senior Software Engineer with 10+ years of experience in the overall software life-cycle. I have a Ph.D. in computer vision and I'm also specialized in real-time, embedded and safety-critical systems. 
 
-I have professional experience with the technologies listed in the toolbox below.
+I have professional experience with the technologies listed in the tech stack below.
 
 I create tech content, mostly about algorithms, distributed systems, and programming in general, but I also talk about other topics. 
 
 You can access my content through my [Blog](https://www.francofernando.com) and my [Twitter](https://twitter.com/Franc0Fernand0) profile. Looking forward to reaching and helping more people by sharing my knowledge.
 
-<!--
+---
+
+Tech stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux logo" width="50px" height="50px">
+<!-- 
 **FrancoFernando/FrancoFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
