@@ -3,7 +3,7 @@
 
 ---
 
-I'm a Senior Software Engineer with 10+ years of experience in the overall software life-cycle. I have a Ph.D. in computer vision and I'm also specialized in real-time, embedded and safety-critical systems. 
+I'm an experienced Software Engineer with a solid professional background in the overall software life-cycle. I have a PhD in computer vision and image processing. My passion are algorithms and distributed systems, but I've also good knowledge of embedded and real time systems.
 
 I have professional experience with the technologies listed in the tech stack below.
 
