@@ -1,5 +1,4 @@
-## Hi 👋, I'm Fernando Franco. 
-## Welcome to my Github profile.
+## I'm Fernando Franco 👋, welcome to my Github profile.
 ![TwitterProfile](https://img.shields.io/twitter/url?label=Franc0Fernand0&style=social&url=https%3A%2F%2Ftwitter.com%2FFranc0Fernand0) ![TwitterFollow](https://img.shields.io/twitter/follow/Franc0Fernand0?label=People%20following%20me&style=social)
 
 ---
