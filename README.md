@@ -8,7 +8,9 @@ I have professional experience with the technologies listed in the tech stack be
 
 I create tech content, mostly about algorithms, distributed systems, and programming in general, but I also talk about other topics. 
 
-You can access my content through my [Blog](https://www.francofernando.com) and my [Twitter](https://twitter.com/Franc0Fernand0) profile. Looking forward to reaching and helping more people by sharing my knowledge.
+You can access my content through my [Blog](https://www.francofernando.com) and my [Twitter](https://twitter.com/Franc0Fernand0) profile. 
+
+Looking forward to reaching and helping more people by sharing my knowledge.
 
 ---
 
