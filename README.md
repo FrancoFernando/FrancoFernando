@@ -2,11 +2,11 @@
 
 ---
 
-I'm an experienced Software Engineer with a solid professional background in the overall software life-cycle. I have a PhD in computer vision and image processing. My passion are algorithms and distributed systems, but I've also good knowledge of embedded and real time systems.
+I'm an experienced Software Engineer with a solid professional background in the software life-cycle. I have a Ph.D. in computer vision and image processing. My expertise is in algorithms, distributed systems, and real-time embedded systems.
 
 I have professional experience with the technologies listed in the tech stack below.
 
-I create tech content, mostly about algorithms, distributed systems, and programming in general, but I also talk about other topics. 
+I create tech content, mostly about algorithms, distributed systems, and software engineering in general, but I also talk about other topics.
 
 You can access my content through my [Blog](https://www.francofernando.com) and my [Twitter](https://twitter.com/Franc0Fernand0) profile. 
 
