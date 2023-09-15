@@ -1,16 +1,16 @@
-## I'm Fernando Franco 👋, welcome to my Github profile.
+## Hello World 👋
 
 ---
 
+I'm Fernando Franco, welcome to my Github profile.
+
 I'm an experienced Software Engineer with a solid professional background in the software life-cycle. I have a Ph.D. in computer vision and image processing. My expertise is in algorithms, distributed systems, and real-time embedded systems.
 
-I have professional experience with the technologies listed in the tech stack below.
+I have professional experience with all the technologies listed in the tech stack below.
 
 I create tech content, mostly about algorithms, distributed systems, and software engineering in general, but I also talk about other topics.
 
-You can access my content through my [Blog](https://www.francofernando.com) and my [Twitter](https://twitter.com/Franc0Fernand0) profile. 
-
-Looking forward to reaching and helping more people by sharing my knowledge.
+You can access my content through my [Blog](https://www.francofernando.com) and my [Twitter](https://twitter.com/Franc0Fernand0) profile.
 
 ---
 
